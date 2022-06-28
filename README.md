@@ -4,6 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##  <a href="https://react-shimmer-effect.vercel.app/" target="_blank"> Live</a>
 
-In the project directory, you can run:
+Clone this project
+
+## npm install
+
+then
+
+##npm start
+
+
+fakeApi's Are integrated in to 
+
 
  
