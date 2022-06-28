@@ -16,7 +16,7 @@ then
 fakeApi's Are integrated in to 
 
 
-<img src="">
+<img src="https://github.com/Usmanzahid389/React-Shimmer-Effect-/blob/main/test.png?raw=true">
 
 
  
